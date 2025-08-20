@@ -44,7 +44,7 @@ I helped design and implement core UI components, contributed to UX decisions, a
 
 ## 📬 Contact Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/yuting-lin-201100358)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yuting-lin-201100358)  
 - 🌐 [Portfolio](https://yutinglinn.cargo.site)  
 - 📧 linyt@bu.edu  
 
