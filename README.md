@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yuting Lin
 
-I'm a student at Boston University studying **Graphic Design** and **Computer Science**, exploring how creativity and technology can come together to create engaging, thoughtful, and user-centered experiences. My work spans interactive design, motion, and storytelling, and I enjoy working with both code and visuals to bring ideas to life.
+NYU IDM graduate student with a background in Graphic Design and Computer Science from Boston University. I’m interested in exploring how creativity and technology can come together to create engaging, thoughtful, and user-centered experiences. My work spans interactive design, UX, creative technology, and software development, and I enjoy working across code and visual mediums to bring ideas to life.
 
 ---
 
